@@ -55,13 +55,14 @@ namespace ConsoleApp2
                 new Person("Tom", "m", new string[3]{"jacket", "hat", "boots"}, true, "straight", "left shoulder" ),
                 new Person("Fill", "m", new string[3]{"jacket", "hat", "boots"},false, "left on 90 degrees right straight", "left shoulder"),
                 new Person("Jenny", "w", new string[3]{"jacket", "not hat", "boots"}, false, "right on 90 degrees left straight", "left shoulder"),
-                new Person("Bred", "m", new string[3]{"jacket", "not hat", "boots"}, false, "on the breast", "left shoulder"),
-                new Person("Oliver", "m", new string[3]{"jacket", "not hat", "boots"}, true, "straight", "left shoulder"),
-                new Person("Lily", "w", new string[3]{"jacket", "not hat", "boots"}, false, "straight", "left shoulder"),
-                new Person("Freya", "w", new string[3]{"jacket", "not hat", "boots"}, false, "left on 90 degrees right straight", "on the right arm"),
-                new Person("Amelia", "mw", new string[3]{"jacket", "not hat", "boots"}, false, "left on 90 degrees right straight", "left shoulder")
+                new Person("Bred", "m", new string[3]{"jacket", "hat", "boots"}, false, "on the breast", "left shoulder"),
+                new Person("Oliver", "m", new string[3]{"jacket", "hat", "boots"}, true, "straight", "left shoulder"),
+                new Person("Lily", "w", new string[3]{"jacket", "hat", "boots"}, false, "straight", "left shoulder"),
+                new Person("Freya", "w", new string[3]{"jacket", "hat", "boots"}, false, "left on 90 degrees right straight", "on the right arm"),
+                new Person("Amelia", "mw", new string[3]{"jacket", "hat", "boots"}, false, "left on 90 degrees right straight", "left shoulder")
             };
         }
     }
 }
+
 
